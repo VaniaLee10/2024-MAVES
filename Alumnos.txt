@@ -1,0 +1,11 @@
+Vania Stephany Sánchez Lee 
+No. de boleta: 2021670191
+
+Axel Frederick Félix Jiménez 
+No. de boleta: 20210203
+
+URLs de repositorio personal:
+https://github.com/VaniaLee10/API-de-correos 
+https://github.com/VaniaLee10/App_IdBird
+
+Proyecto: Sistema para muestreo de aves en la ciudad de Zacatecas
